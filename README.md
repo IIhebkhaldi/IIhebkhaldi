@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering student** (5th year) at ESPRIT (École Supérieure Privée d'Ingénierie et de Technologies) in Tunisia, specializing in **Business Intelligence**, **Data Analytics** and **Data Science**. I love turning raw data into insights: building **Data Warehouses, ETL pipelines and Power BI dashboards**, and deploying **machine learning models** with **FastAPI, Docker and MLflow**.
+I'm a passionate **Software Engineering student** (5th year) at ESPRIT (École Supérieure Privée d'Ingénierie et de Technologies) in Tunisia, specializing in **Business Intelligence**, **Data Analytics** and **Data Science**.
+
+I love turning raw data into insights: building **Data Warehouses, ETL pipelines and Power BI dashboards**, and deploying **machine learning models** with **FastAPI, Docker and MLflow**.
 
 I'm currently looking for a **PFE internship** in Data Analytics / BI / Data Science. 🎯
 
@@ -14,6 +16,8 @@ I'm currently looking for a **PFE internship** in Data Analytics / BI / Data Sci
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kiheb001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiheb001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kiheb001%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiheb001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iheb--khaldi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iheb-khaldi-b9b347297/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-iheb-khaldi.vercel.app)
+
 </div>
